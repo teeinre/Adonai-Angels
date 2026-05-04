@@ -4,9 +4,9 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "build": "vite build",
+    "build": "npx vite build",
     "dev": "vite",
-    "preview": "vite preview",
+    "preview": "npx vite preview",
     "serve": "node server.js",
     "start": "node server.js",
     "migrate": "node migrate.js",
