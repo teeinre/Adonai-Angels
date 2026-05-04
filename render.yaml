@@ -6,11 +6,11 @@ services:
     staticPublishPath: ./dist
     envVars:
       - key: VITE_SUPABASE_URL
-        fromContext: env
+        value: placeholder-url-change-me
       - key: VITE_SUPABASE_ANON_KEY
-        fromContext: env
+        value: placeholder-anon-key-change-me
       - key: VITE_SUPABASE_SERVICE_ROLE_KEY
-        fromContext: env
+        value: placeholder-service-role-key-change-me
       - key: NODE_VERSION
         value: 18.0.0
     routes:
