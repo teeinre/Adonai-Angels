@@ -10,16 +10,14 @@ This project is configured for deployment on Railway.com.
 
 ## Configuration
 
-The deployment is managed via `railway.json`. It uses **Nixpacks** to automatically detect the environment and build the application.
+The deployment is managed via a root-level `railway.json` and a root-level `package.json`. This structure ensures that Railway's Nixpacks builder correctly identifies the project as a Node.js application even though the main code is in a subdirectory.
 
 ### Build and Deploy Pipeline
 
-1. **Build**: `npm run build` generates the static assets in the `dist` folder.
-2. **Pre-deploy**: `npm run migrate` is executed automatically (via `prestart`) to apply the `supabase-schema.sql` to the Railway PostgreSQL database.
-3. **Start**: `npm start` runs `server.js`, a lightweight Express server that:
-   - Serves static files.
-   - Handles SPA routing.
-   - Provides a `/health` endpoint for Railway monitoring.
+1. **Detection**: Railway sees `package.json` in the root and installs Node.js.
+2. **Build**: The root `package.json` runs `npm run build`, which delegates to the `Adonai Website Backend and Frontend` subdirectory.
+3. **Pre-deploy**: The application's `prestart` hook runs migrations on the Railway PostgreSQL database.
+4. **Start**: The root `package.json` runs `npm start`, which launches the Express server in the subdirectory.
 
 ## Required Environment Variables
 
