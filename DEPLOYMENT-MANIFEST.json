@@ -1,0 +1,177 @@
+{
+  "timestamp": "2026-05-11T15:59:44.499Z",
+  "application": "Adonai NGO Website",
+  "version": "0.0.1",
+  "destinationFolder": "public_html/adonai-ngo-app",
+  "files": [
+    {
+      "path": "server.js",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\server.js",
+      "destinationPath": "public_html/adonai-ngo-app/server.js",
+      "sizeBytes": 39005,
+      "sizeKB": 38.09,
+      "sha256": "3ac50ccb241f77f206f08092503739dc2655c9f8569adde092d386a3db79dcf9",
+      "lastModified": "2026-05-05T13:59:37.743Z"
+    },
+    {
+      "path": "package.json",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\package.json",
+      "destinationPath": "public_html/adonai-ngo-app/package.json",
+      "sizeBytes": 3366,
+      "sizeKB": 3.29,
+      "sha256": "a024964eeabcc759d304e87c19ead2f7f6c3c9cd0d06d7226c77102a58a9554c",
+      "lastModified": "2026-05-05T12:50:58.152Z"
+    },
+    {
+      "path": ".env",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\.env",
+      "destinationPath": "public_html/adonai-ngo-app/.env",
+      "sizeBytes": 860,
+      "sizeKB": 0.84,
+      "sha256": "bfd7e285a344eadb6ed07fa3d6758c7a61f3547bddb683acb962951783db2971",
+      "lastModified": "2026-05-08T10:01:49.115Z"
+    },
+    {
+      "path": ".env.example",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\.env.example",
+      "destinationPath": "public_html/adonai-ngo-app/.env.example",
+      "sizeBytes": 583,
+      "sizeKB": 0.57,
+      "sha256": "c8a9dccffa10a38405f1551d1d0527f79e4087d0b3770bd0cdf730ce37284d19",
+      "lastModified": "2026-05-04T19:01:08.854Z"
+    },
+    {
+      "path": "migrate.js",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\migrate.js",
+      "destinationPath": "public_html/adonai-ngo-app/migrate.js",
+      "sizeBytes": 2270,
+      "sizeKB": 2.22,
+      "sha256": "6798f55cb20d219a87d0cba6da4997345bb8b0a02b56f0e9529129d4230cc215",
+      "lastModified": "2026-05-05T12:40:30.490Z"
+    },
+    {
+      "path": "seed-admin.js",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\seed-admin.js",
+      "destinationPath": "public_html/adonai-ngo-app/seed-admin.js",
+      "sizeBytes": 3206,
+      "sizeKB": 3.13,
+      "sha256": "dfeb5b264446f6a4b4150c7f5e4ab3ba1d9979c359a653522c0b25c45c06cbe3",
+      "lastModified": "2026-05-05T09:40:56.501Z"
+    },
+    {
+      "path": "package-lock.json",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\package-lock.json",
+      "destinationPath": "public_html/adonai-ngo-app/package-lock.json",
+      "sizeBytes": 307968,
+      "sizeKB": 300.75,
+      "sha256": "22602da2253f81e40e56eda9bf0a84a01933ea53efc9528e0862d3fa104bd0bf",
+      "lastModified": "2026-05-05T12:50:59.639Z"
+    },
+    {
+      "path": "db/config.js",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\db\\config.js",
+      "destinationPath": "public_html/adonai-ngo-app/db/config.js",
+      "sizeBytes": 1745,
+      "sizeKB": 1.7,
+      "sha256": "fba546245545f0f0d7c523ad9724f2e2c965234281dc1f14b5329a4adf670d82",
+      "lastModified": "2026-05-05T12:37:13.304Z"
+    },
+    {
+      "path": "db/db.test.js",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\db\\db.test.js",
+      "destinationPath": "public_html/adonai-ngo-app/db/db.test.js",
+      "sizeBytes": 1717,
+      "sizeKB": 1.68,
+      "sha256": "ba16bec7d4290c1850eacb5fa03b32c314af164c13e330f5fe1237f6c7d80944",
+      "lastModified": "2026-05-05T12:40:12.101Z"
+    },
+    {
+      "path": "db/index.js",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\db\\index.js",
+      "destinationPath": "public_html/adonai-ngo-app/db/index.js",
+      "sizeBytes": 1791,
+      "sizeKB": 1.75,
+      "sha256": "b1e9e835a2aa522dbecaf37b5f9cf8aa32dfd44371ab1bdf664b37016ed4bce9",
+      "lastModified": "2026-05-05T12:37:21.219Z"
+    },
+    {
+      "path": "db/repositories/UserRepository.js",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\db\\repositories\\UserRepository.js",
+      "destinationPath": "public_html/adonai-ngo-app/db/repositories/UserRepository.js",
+      "sizeBytes": 1602,
+      "sizeKB": 1.56,
+      "sha256": "eee5c8c076e89095adc1e627ec97bae263175ad422bc18d2f39290a1aceb5e27",
+      "lastModified": "2026-05-05T12:37:43.338Z"
+    },
+    {
+      "path": "dist/assets/index-BMg9TpBU.js",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\dist\\assets\\index-BMg9TpBU.js",
+      "destinationPath": "public_html/adonai-ngo-app/dist/assets/index-BMg9TpBU.js",
+      "sizeBytes": 1008122,
+      "sizeKB": 984.49,
+      "sha256": "6746a29a209d94e570e276f3907889a2443c64dc326bde29a59e35fed2454683",
+      "lastModified": "2026-05-05T13:47:31.543Z"
+    },
+    {
+      "path": "dist/assets/index-C7Thbfpo.css",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\dist\\assets\\index-C7Thbfpo.css",
+      "destinationPath": "public_html/adonai-ngo-app/dist/assets/index-C7Thbfpo.css",
+      "sizeBytes": 162477,
+      "sizeKB": 158.67,
+      "sha256": "aac98d13e2366b669db35b81f67a7a8480c47a69890de07ecf99e9374bfc658c",
+      "lastModified": "2026-05-05T13:47:31.536Z"
+    },
+    {
+      "path": "dist/index.html",
+      "sourcePath": "C:\\Users\\450\\Documents\\trae_projects\\Adonai NGO Website\\Adonai Website Backend and Frontend\\dist\\index.html",
+      "destinationPath": "public_html/adonai-ngo-app/dist/index.html",
+      "sizeBytes": 519,
+      "sizeKB": 0.51,
+      "sha256": "ab8f61fb635a0faf80600e0b74b0e91700785c7ddb7b2c0f78260fc92a59ee96",
+      "lastModified": "2026-05-05T13:47:31.542Z"
+    }
+  ],
+  "verification": {
+    "sourceChecksums": {
+      "server.js": "3ac50ccb241f77f206f08092503739dc2655c9f8569adde092d386a3db79dcf9",
+      "package.json": "a024964eeabcc759d304e87c19ead2f7f6c3c9cd0d06d7226c77102a58a9554c",
+      ".env": "bfd7e285a344eadb6ed07fa3d6758c7a61f3547bddb683acb962951783db2971",
+      ".env.example": "c8a9dccffa10a38405f1551d1d0527f79e4087d0b3770bd0cdf730ce37284d19",
+      "migrate.js": "6798f55cb20d219a87d0cba6da4997345bb8b0a02b56f0e9529129d4230cc215",
+      "seed-admin.js": "dfeb5b264446f6a4b4150c7f5e4ab3ba1d9979c359a653522c0b25c45c06cbe3",
+      "package-lock.json": "22602da2253f81e40e56eda9bf0a84a01933ea53efc9528e0862d3fa104bd0bf",
+      "db/config.js": "fba546245545f0f0d7c523ad9724f2e2c965234281dc1f14b5329a4adf670d82",
+      "db/db.test.js": "ba16bec7d4290c1850eacb5fa03b32c314af164c13e330f5fe1237f6c7d80944",
+      "db/index.js": "b1e9e835a2aa522dbecaf37b5f9cf8aa32dfd44371ab1bdf664b37016ed4bce9",
+      "db/repositories/UserRepository.js": "eee5c8c076e89095adc1e627ec97bae263175ad422bc18d2f39290a1aceb5e27",
+      "dist/assets/index-BMg9TpBU.js": "6746a29a209d94e570e276f3907889a2443c64dc326bde29a59e35fed2454683",
+      "dist/assets/index-C7Thbfpo.css": "aac98d13e2366b669db35b81f67a7a8480c47a69890de07ecf99e9374bfc658c",
+      "dist/index.html": "ab8f61fb635a0faf80600e0b74b0e91700785c7ddb7b2c0f78260fc92a59ee96"
+    },
+    "destinationChecksums": {
+      "server.js": "3ac50ccb241f77f206f08092503739dc2655c9f8569adde092d386a3db79dcf9",
+      "package.json": "a024964eeabcc759d304e87c19ead2f7f6c3c9cd0d06d7226c77102a58a9554c",
+      ".env": "bfd7e285a344eadb6ed07fa3d6758c7a61f3547bddb683acb962951783db2971",
+      ".env.example": "c8a9dccffa10a38405f1551d1d0527f79e4087d0b3770bd0cdf730ce37284d19",
+      "migrate.js": "6798f55cb20d219a87d0cba6da4997345bb8b0a02b56f0e9529129d4230cc215",
+      "seed-admin.js": "dfeb5b264446f6a4b4150c7f5e4ab3ba1d9979c359a653522c0b25c45c06cbe3",
+      "package-lock.json": "22602da2253f81e40e56eda9bf0a84a01933ea53efc9528e0862d3fa104bd0bf",
+      "db/config.js": "fba546245545f0f0d7c523ad9724f2e2c965234281dc1f14b5329a4adf670d82",
+      "db/db.test.js": "ba16bec7d4290c1850eacb5fa03b32c314af164c13e330f5fe1237f6c7d80944",
+      "db/index.js": "b1e9e835a2aa522dbecaf37b5f9cf8aa32dfd44371ab1bdf664b37016ed4bce9",
+      "db/repositories/UserRepository.js": "eee5c8c076e89095adc1e627ec97bae263175ad422bc18d2f39290a1aceb5e27",
+      "dist/assets/index-BMg9TpBU.js": "6746a29a209d94e570e276f3907889a2443c64dc326bde29a59e35fed2454683",
+      "dist/assets/index-C7Thbfpo.css": "aac98d13e2366b669db35b81f67a7a8480c47a69890de07ecf99e9374bfc658c",
+      "dist/index.html": "ab8f61fb635a0faf80600e0b74b0e91700785c7ddb7b2c0f78260fc92a59ee96"
+    },
+    "integrityPassed": true
+  },
+  "permissions": {
+    "directories": "755",
+    "files": "644",
+    "sensitiveFiles": {
+      ".env": "600"
+    },
+    "ownership": "user:nobody"
+  }
+}
